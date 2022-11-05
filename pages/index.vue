@@ -1,5 +1,5 @@
 <template>
-  <div>hi car service app</div>
+  <div>car service app index</div>
 </template>
 
 <script>
